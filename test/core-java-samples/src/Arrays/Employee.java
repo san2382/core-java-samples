@@ -1,5 +1,10 @@
 package Arrays;
-
+/**
+ * 
+ * 
+ * @author Sandhya Rao
+ *
+ */
 public class Employee {
 	
 	private String EmpName;
